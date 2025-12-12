@@ -1,12 +1,20 @@
 ---
 name: Feature request
-about: Suggest an idea
+about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
 
-Start by telling us what problem you’re trying to solve. Often a solution already exists!
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-Don’t send pull requests to implement new features without first getting our support. Sometimes we leave features out on purpose to keep the project small.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
